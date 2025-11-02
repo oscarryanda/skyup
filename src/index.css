@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans bg-white text-skyup-dark;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-skyup-teal hover:bg-skyup-blue text-white font-semibold py-3 px-6 rounded-2xl transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-white hover:bg-skyup-light text-skyup-teal border-2 border-skyup-teal font-semibold py-3 px-6 rounded-2xl transition-colors duration-200;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-md border border-gray-200 p-6;
+  }
+  
+  .badge-active {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-skyup-orange text-white;
+  }
+  
+  .badge-important {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-skyup-red text-white;
+  }
+  
+  .badge-neutral {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-gray-200 text-skyup-dark;
+  }
+}
+

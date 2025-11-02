@@ -1,0 +1,109 @@
+[
+  {
+    "id": "bem-ui",
+    "name": "BEM UI",
+    "fullName": "Badan Eksekutif Mahasiswa Universitas Indonesia",
+    "slug": "bem-ui",
+    "university": "Universitas Indonesia",
+    "description": "Badan Eksekutif Mahasiswa Universitas Indonesia yang berkomitmen untuk mewakili aspirasi mahasiswa dan mengembangkan potensi mahasiswa melalui berbagai program kerja dan kegiatan.",
+    "tagline": "Bergerak Bersama, Membangun Indonesia",
+    "logo": "https://placehold.co/200x200/178A9E/FFFFFF?text=BEM+UI",
+    "banner": "https://placehold.co/1200x400/0A64A4/FFFFFF?text=BEM+UI+Banner",
+    "theme": {
+      "primaryColor": "#178A9E",
+      "secondaryColor": "#0A64A4",
+      "accentColor": "#002D9C",
+      "fontFamily": "Inter"
+    },
+    "isPro": false,
+    "sponsors": [],
+    "social": {
+      "instagram": "@bemui",
+      "twitter": "@bemui_official",
+      "email": "contact@bem.ui.ac.id",
+      "website": "https://bem.ui.ac.id"
+    },
+    "stats": {
+      "totalEvents": 12,
+      "totalMembers": 150,
+      "foundedYear": 1990
+    }
+  },
+  {
+    "id": "himti-binus",
+    "name": "HIMTI BINUS",
+    "fullName": "Himpunan Mahasiswa Teknik Informatika BINUS",
+    "slug": "himti-binus",
+    "university": "Universitas Bina Nusantara",
+    "description": "Himpunan mahasiswa yang berfokus pada pengembangan skill teknis dan soft skill mahasiswa Teknik Informatika melalui workshop, seminar, dan kompetisi programming.",
+    "tagline": "Code, Connect, Create",
+    "logo": "https://placehold.co/200x200/F97902/FFFFFF?text=HIMTI",
+    "banner": "https://placehold.co/1200x400/3E3E3E/FFFFFF?text=HIMTI+BINUS+Banner",
+    "theme": {
+      "primaryColor": "#F97902",
+      "secondaryColor": "#3E3E3E",
+      "accentColor": "#64748B",
+      "fontFamily": "Plus Jakarta Sans"
+    },
+    "isPro": false,
+    "sponsors": [],
+    "social": {
+      "instagram": "@himtibinus",
+      "twitter": "@himti_binus",
+      "email": "himti@binus.ac.id",
+      "website": "https://himti.binus.ac.id"
+    },
+    "stats": {
+      "totalEvents": 8,
+      "totalMembers": 200,
+      "foundedYear": 2005
+    }
+  },
+  {
+    "id": "ukm-musik-ugm",
+    "name": "UKM Musik UGM",
+    "fullName": "Unit Kegiatan Mahasiswa Musik Universitas Gadjah Mada",
+    "slug": "ukm-musik-ugm",
+    "university": "Universitas Gadjah Mada",
+    "description": "Unit Kegiatan Mahasiswa yang menaungi berbagai kegiatan musik di UGM. Dari musik tradisional hingga kontemporer, kami mengembangkan bakat musik mahasiswa melalui latihan rutin, pertunjukan, dan festival.",
+    "tagline": "Harmony in Diversity",
+    "logo": "https://placehold.co/200x200/002D9C/FFFFFF?text=UKM+Musik",
+    "banner": "https://placehold.co/1200x400/F61B1B/FFFFFF?text=UKM+Musik+UGM+Banner",
+    "theme": {
+      "primaryColor": "#002D9C",
+      "secondaryColor": "#F61B1B",
+      "accentColor": "#F97902",
+      "fontFamily": "Inter"
+    },
+    "isPro": true,
+    "sponsors": [
+      {
+        "name": "Yamaha Music Indonesia",
+        "logo": "https://placehold.co/200x100/000000/FFFFFF?text=Yamaha",
+        "tier": "platinum"
+      },
+      {
+        "name": "Tokopedia",
+        "logo": "https://placehold.co/200x100/42B549/FFFFFF?text=Tokopedia",
+        "tier": "gold"
+      }
+    ],
+    "social": {
+      "instagram": "@ukmmusikugm",
+      "youtube": "UKM Musik UGM",
+      "email": "ukmmusik@ugm.ac.id",
+      "website": "https://ukmmusik.ugm.ac.id"
+    },
+    "stats": {
+      "totalEvents": 25,
+      "totalMembers": 350,
+      "foundedYear": 1985
+    },
+    "analytics": {
+      "monthlyViews": 15420,
+      "totalRegistrations": 3245,
+      "conversionRate": 21.5
+    }
+  }
+]
+
